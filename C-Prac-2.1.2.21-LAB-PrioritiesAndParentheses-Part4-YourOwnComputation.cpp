@@ -41,5 +41,6 @@ int main() {
 	printf("After first year: %f\n", firstYearValue);
 	printf("After second year: %f\n", secondYearValue);
 	printf("After third yeard: %f\n", thirdYearValue);
-	return 0;
+
+	return 1;
 }
